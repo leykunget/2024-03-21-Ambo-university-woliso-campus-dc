@@ -26,7 +26,7 @@ carpentry: "dc"
 # workshops.
 # Possible values are:
 # dc-astronomy:     for Data Carpentry Astronomy
- dc-ecology:       for Data Carpentry Ecology
+# dc-ecology:       for Data Carpentry Ecology
 # dc-genomics:      for Data Carpentry Genomics
 # dc-socsci:        for Data Carpentry Social Sciences
 # dc-geospatial:    for Data Carpentry Geospatial
